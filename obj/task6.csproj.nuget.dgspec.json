@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Games\\Study\\homework\\C#(1)\\task6\\task6.csproj": {}
+    "C:\\Games\\Study\\homework\\C#FirstHK\\task6\\task6.csproj": {}
   },
   "projects": {
-    "C:\\Games\\Study\\homework\\C#(1)\\task6\\task6.csproj": {
+    "C:\\Games\\Study\\homework\\C#FirstHK\\task6\\task6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Games\\Study\\homework\\C#(1)\\task6\\task6.csproj",
+        "projectUniqueName": "C:\\Games\\Study\\homework\\C#FirstHK\\task6\\task6.csproj",
         "projectName": "task6",
-        "projectPath": "C:\\Games\\Study\\homework\\C#(1)\\task6\\task6.csproj",
+        "projectPath": "C:\\Games\\Study\\homework\\C#FirstHK\\task6\\task6.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Games\\Study\\homework\\C#(1)\\task6\\obj\\",
+        "outputPath": "C:\\Games\\Study\\homework\\C#FirstHK\\task6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
